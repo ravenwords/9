@@ -1,0 +1,11 @@
+Model Information:
+* title:	Little fruit store
+* source:	https://sketchfab.com/3d-models/little-fruit-store-0cc1a3a35737494380e7cbc31ac52e53
+* author:	blednaya (https://sketchfab.com/blednaya)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Little fruit store" (https://sketchfab.com/3d-models/little-fruit-store-0cc1a3a35737494380e7cbc31ac52e53) by blednaya (https://sketchfab.com/blednaya) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
